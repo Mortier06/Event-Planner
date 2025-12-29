@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujiCa73MKw4=",
+  "dgSpecHash": "gLOKAsfsfFA=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Event Planner\\Backend\\EventPlanner.API\\EventPlanner.API.csproj",
+  "projectFilePath": "C:\\Projects\\Event Planner\\Backend\\EventPlanner.API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
