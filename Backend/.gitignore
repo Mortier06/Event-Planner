@@ -1,0 +1,73 @@
+# ===============================
+# Visual Studio / .NET / Rider
+# ===============================
+
+# Build folders
+bin/
+obj/
+out/
+
+# Rider project files
+.idea/
+*.iml
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+# If using PackageReference restore packages from nuget.org
+# (don't need to commit packages folder)
+.nuget/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database / local data (if applicable)
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Test result folders
+TestResults/
+coverage/
+
+# JetBrains Rider caches
+.idea/
+*.sln.iml
+*.DotSettings.user
+
+# Rider workspace
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/.name
+
+# Rider local history (optional, can be big)
+.idea/.idea.LocalHistory/
+
+# VS Code history
+.history/
+
+# Others
+*.vsix
+.vs/
