@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Event Planner\\EventPlanner.API\\EventPlanner.API.csproj",
+      "projectUniqueName": "C:\\Projects\\Event Planner\\Backend\\EventPlanner.API\\EventPlanner.API.csproj",
       "projectName": "EventPlanner.API",
-      "projectPath": "C:\\Projects\\Event Planner\\EventPlanner.API\\EventPlanner.API.csproj",
+      "projectPath": "C:\\Projects\\Event Planner\\Backend\\EventPlanner.API\\EventPlanner.API.csproj",
       "packagesPath": "C:\\Users\\Thibaud.Mortier\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Event Planner\\EventPlanner.API\\obj\\",
+      "outputPath": "C:\\Projects\\Event Planner\\Backend\\EventPlanner.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
