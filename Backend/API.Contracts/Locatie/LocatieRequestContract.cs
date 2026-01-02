@@ -1,13 +1,11 @@
 using System;
 
-namespace Domain.Model;
+namespace API.Contracts.Locatie;
 
-public class LocatieModel
+public class LocatieRequestContract
 {
-    public int Id { get; set; }
     public string Naam { get; set; }
     public string Beschrijving { get; set; }
     public int GpsLat { get; set; }
     public int GpsLon { get; set; }
-
 }

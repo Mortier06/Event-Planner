@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Evenement\" />
+    <Folder Include="Locatie\" />
+    <Folder Include="Logs\" />
+    <Folder Include="Taak\" />
+  </ItemGroup>
+
 </Project>

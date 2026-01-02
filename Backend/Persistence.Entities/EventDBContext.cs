@@ -10,6 +10,11 @@ public class EventDBContext : DbContext
     public DbSet<Taak> Taken { get; set; }
     private string connectionString = "Server=127.0.0.1;Port=8555;Database=EventPlanner;User=eventplanner;Password=eventplanner123;SslMode=Preferred;";
 
+
+    public EventDBContext(DbContextOptions<EventDBContext> options) : base(options)
+    {
+    }
+
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
         options.UseMySql(
